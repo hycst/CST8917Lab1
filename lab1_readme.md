@@ -19,6 +19,7 @@ Install the following software before running the project:
 
 #####  Install Dependencies
 pip install -r requirements.txt
+<img width="1731" height="950" alt="image" src="https://github.com/user-attachments/assets/c5f10c2f-fed1-4b40-b1cc-6cd48cbb3ede" />
 
 ##### Create Funcations app, and cogmos DB in Azure porta:
 
