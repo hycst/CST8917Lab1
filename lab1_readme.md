@@ -21,7 +21,10 @@ Install the following software before running the project:
 pip install -r requirements.txt
 <img width="1731" height="950" alt="image" src="https://github.com/user-attachments/assets/c5f10c2f-fed1-4b40-b1cc-6cd48cbb3ede" />
 
-##### Create Funcations app, and cogmos DB in Azure porta:
+##### Create function_app.py in VS Code, then create Funcations app, and cogmos DB in Azure porta:
+
+<img width="2780" height="1541" alt="image" src="https://github.com/user-attachments/assets/2e6f6b0f-b09e-4738-b2c8-1e2bd02d1fc8" />
+
 
 <img width="2991" height="1405" alt="image" src="https://github.com/user-attachments/assets/258819a8-1e02-48c7-badd-e90e675bdbe0" />
 
